@@ -1,6 +1,4 @@
 # wrtng
-*command line app for note taking (and more...)*
-
 
 inspiration from:
 - *[jrnl](https://jrnl.sh/)*
