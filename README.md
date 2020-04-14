@@ -32,7 +32,11 @@ wrtng
 ```
 Vim will open with the date and time above your message, you can start typing right away.
 
-For navigation use the arrow keys or press escape and use `hjkl` For the following functions press escape and then type the command: save `:w` , quit `:q` , save and quit `:x`
+For navigation use the arrow keys or press escape and use `hjkl` 
+
+For the following functions press escape and then type the command:
+
+save `:w` , quit `:q` , save and quit `:x`
 
 
 View/edit logs:
