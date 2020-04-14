@@ -1,7 +1,8 @@
 # wrtng
 
 ### ~/. reason for making this
-wrtng is intended for my own personal use as a note taking, to do and blog writing CLI script. I strongly enjoyed using jrnl but found it not really portable enough when working with servers and syncing with git didn't go as smooth as I wanted to. When looking into ways to make my own I found did.txt and this gave me a starting point to start writing my own solution. 
+The reason I'm creating wrtng is to have a program on the command line for my notes, todo and blogs.
+I enjoyed using jrnl but wanted something easier to install and sync with git, when looking for more information I found did.txt and this gave me a starting point to create my own solution. 
 
 ### ~/. functionality
 - [x] editing in vim 
