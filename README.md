@@ -11,7 +11,8 @@ wrtng is intended for my own personal use as a note taking, to do and blog writi
 - [ ] markdown support (easy viewing on github, exporting to blog, etc.) 
 - [ ] webapp for use on devices without easy terminal acess
 
-***inspiration from:***
+---
+**inspiration from:**
 *[jrnl](https://jrnl.sh/)*
 *[did.txt](https://theptrk.com/2018/07/11/did-txt-file/)*
 *[did](https://marmelab.com/blog/2018/11/08/a-developers-diary.html)*
