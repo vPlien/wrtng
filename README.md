@@ -2,6 +2,7 @@
 
 ##### to do:
 - [ ] basic functionality
+- [ ] multiple logs
 - [ ] markdown support
 - [ ] github pages
 
