@@ -1,6 +1,11 @@
 # wrtng
 command line app for note taking (and more...)
 
+##### to do:
+- [ ] basic functionality
+- [ ] markdown support
+- [ ] github pages
+
 Inspiration from:
 - [jrnl][https://jrnl.sh/]
 - [did.txt][https://theptrk.com/2018/07/11/did-txt-file/]
