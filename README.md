@@ -12,9 +12,12 @@ I enjoyed using jrnl but wanted something easier to install and sync with git, w
 - [ ] markdown support (easy viewing on github, exporting to blog, etc.) 
 
 ### ~/. installation
-1. Clone this repository
+Clone this repository:
+
 'git clone https://github.com/vPlien/wrtng.git'
-2. Add the following line to your .bashrc or .zshrc
+
+Add the following line to your .bashrc or .zshrc:
+
 'alias wrtng "~/path/to/wrtng.sh"'
 
 ---
