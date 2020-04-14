@@ -5,11 +5,12 @@ The reason I'm creating wrtng is to have a program on the command line for my no
 I enjoyed using jrnl but wanted something easier to install and sync with git, when looking for more information I found did.txt and this gave me a starting point to create my own solution. 
 
 ### ~/. functionality
-- [x] editing in vim 
-- [x] portable (easy to clone with git as long as you have bash and minimal dependencies)
-- [ ] multiple journals (notes, todo, blogs, etc.)
-- [ ] sync with git 
-- [ ] markdown support (easy viewing on github, exporting to blog, etc.) 
+- [x] Editing in vim 
+- [x] Portable (easy to clone with git as long as you have bash and minimal dependencies)
+- [ ] Easy viewing with the cli
+- [ ] Supports multiple journals (notes, todo, blogs, etc.)
+- [ ] Install and sync with git
+- [ ] Markdown support (for easy viewing and editing on github, exporting to blog, etc.) 
 
 ### ~/. installation
 Clone this repository:
@@ -21,6 +22,17 @@ Add the following line to your .bashrc or .zshrc:
 ```
 alias wrtng "~/path/to/wrtng.sh"
 ```
+
+### ~/. usage
+Start wrtng
+```
+wrtng
+```
+
+Vim will start up with the date and time above your message, you can start typing right away. For navigation use 'hjkl' or the arrow keys. Save with ':w'. Quit with ':q'. Save and quit with ':x'
+
+
+
 
 ---
 
