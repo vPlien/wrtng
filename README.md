@@ -1,10 +1,10 @@
 # wrtng
 
-### ~/. reason for making this
+## ~/. reason for making this
 The reason I'm creating wrtng is to have a program on the command line for my notes, todo and blogs.
-I enjoyed using jrnl but wanted something easier to install and sync with git, when looking for more information I found did.txt and this gave me a starting point to create my own solution. 
+I enjoyed using [jrnl](https://jrnl.sh/) but wanted something easier to install and sync with git, when looking for more information I found an [addition](https://marmelab.com/blog/2018/11/08/a-developers-diary.html) to [did.txt](https://theptrk.com/2018/07/11/did-txt-file/) and this gave me a starting point for creating my own solution. 
 
-### ~/. functionality
+## ~/. functionality
 - [x] Editing in vim 
 - [x] Portable (easy to clone with git as long as you have bash and minimal dependencies)
 - [ ] Easy viewing with the cli
@@ -12,7 +12,7 @@ I enjoyed using jrnl but wanted something easier to install and sync with git, w
 - [ ] Install and sync with git
 - [ ] Markdown support (for easy viewing and editing on github, exporting to blog, etc.) 
 
-### ~/. installation
+## ~/. installation
 Clone this repository:
 ```
 git clone https://github.com/vPlien/wrtng.git
@@ -40,14 +40,4 @@ Edit log of today:
 ```
 wrtng
 ```
-
-
-
-
-
----
-
-
-inspiration from:
-*[jrnl](https://jrnl.sh/), [did.txt](https://theptrk.com/2018/07/11/did-txt-file/), [did](https://marmelab.com/blog/2018/11/08/a-developers-diary.html)*
 
