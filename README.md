@@ -24,12 +24,23 @@ alias wrtng "~/path/to/wrtng.sh"
 ```
 
 ### ~/. usage
-Start wrtng
+Start wrtng: 
+```
+wrtng
+```
+Vim will open with the date and time above your message, you can start typing right away.
+
+For navigation use the arrow keys or press escape and use: `hjkl` For the following functions press escape and then type the command: Save: `:w` , Quit: `:q` , Save and quit: `:x`
+
+View/edit logs:
+```
+vim ~/.wrtng/year/month/date.txt
+```
+Edit log of today:
 ```
 wrtng
 ```
 
-Vim will start up with the date and time above your message, you can start typing right away. For navigation use 'hjkl' or the arrow keys. Save with ':w'. Quit with ':q'. Save and quit with ':x'
 
 
 
