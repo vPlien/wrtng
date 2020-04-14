@@ -13,12 +13,14 @@ I enjoyed using jrnl but wanted something easier to install and sync with git, w
 
 ### ~/. installation
 Clone this repository:
-
-'git clone https://github.com/vPlien/wrtng.git'
+```
+git clone https://github.com/vPlien/wrtng.git
+```
 
 Add the following line to your .bashrc or .zshrc:
-
-'alias wrtng "~/path/to/wrtng.sh"'
+```
+alias wrtng "~/path/to/wrtng.sh"
+```
 
 ---
 
