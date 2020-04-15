@@ -43,8 +43,4 @@ View/edit logs:
 ```
 vim ~/.wrtng/year/month/date.txt
 ```
-Edit log of today:
-```
-wrtng
-```
 
