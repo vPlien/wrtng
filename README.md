@@ -20,7 +20,7 @@ Clone this repository:
 git clone https://github.com/vPlien/wrtng.git
 ```
 
-Add the following line to your .bashrc or .zshrc:
+Add the following line to your .zshrc:
 ```
 alias wrtng "~/path/to/wrtng.sh"
 ```
