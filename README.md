@@ -8,11 +8,12 @@ I enjoyed using [jrnl](https://jrnl.sh/) but wanted something easier to install 
 
 ## ~/. functionality
 - [x] Editing in vim 
-- [x] Portable (easy to clone with git as long as you have bash and minimal dependencies)
+- [x] Install with git
+- [x] Markdown support (view and edit your notes with github.com)
 - [ ] Easy viewing with the cli
 - [ ] Supports multiple journals (notes, todo, blogs, etc.)
-- [ ] Install and sync with git
-- [ ] Markdown support (for easy viewing and editing on github, exporting to blog, etc.) 
+- [ ] Sync with git
+- [ ] Support for other editors (ghostwriter)
 
 ## ~/. installation
 Clone this repository:
@@ -32,9 +33,9 @@ wrtng
 ```
 Vim will open with the date and time above your message, you can start typing right away.
 
-For navigation use the arrow keys or press escape and use `hjkl` 
+For navigation use the arrow keys or press `escape` and use `hjkl` 
 
-For the following functions press escape and then type the command:
+For the following functions press `escape` and then type the command:
 
 save `:w` , quit `:q` , save and quit `:x`
 
