@@ -52,12 +52,7 @@ JOURNAL_NAME="${UNPARSED[0]}"
 
 JOURNAL="${WRTNG_DIR}/${JOURNAL_NAME}.md"
 
-# # Define path for logs 
-# WRTNG_PATH=~/.wrtng/$(date +%Y)/$(date +%m)
-# # Make directory for path
-# mkdir -p $WRTNG_PATH
-# 
-# # echo date and time to log
-# echo -e "\n\n## "$(date "+%A %d/%m/%Y - [%T]")"\n\n" >> ${WRTNG_PATH}/$(date +%d).md
-# # open vim in path with a new file per day
-# vim "+normal Go" +startinsert ${WRTNG_PATH}/$(date +%d).md
+# echo date and time to log
+echo -e "\n\n## "$(date "+%A %d/%m/%Y - [%T]")"\n\n" >> ${WRTNG_DIR}/${JOURNAL_NAME}.md
+# open vim in path with a new file per day
+vim "+normal Go" +startinsert ${WRTNG_DIR}/${JOURNAL_NAME}.md
